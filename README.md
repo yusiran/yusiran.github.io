@@ -1,3 +1,3 @@
 ## YUSIRAN
 
-- [nothing](/all/nothing)
+- [nothing](/all/nothing.md)
